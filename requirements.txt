@@ -4,4 +4,4 @@ pandas==1.4.1
 gunicorn==20.1.0
 sklearn
 eli5==0.13.0
-imblearn==0.7.0
+imblearn
